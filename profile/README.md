@@ -1,10 +1,11 @@
-# CarMarketplaceApp
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/3a0f16ca-25c1-4923-90d5-b669ee894074" alt="image" />
-</div>
-| 현대오토에버 모빌리티 SW스쿨 웹/앱 과정 앱 프로젝트
-
 # 🚘 나에게 맞는 차량을 찾아봐 (차자바)
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/86431c25-319a-423b-9224-bf2e5d9efd89" alt="image" />
+</div>
+
+
+| 현대오토에버 모빌리티 SW스쿨 웹/앱 과정 앱 프로젝트
 
 <br/>
 
