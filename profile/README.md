@@ -121,7 +121,7 @@
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
 <img src="https://img.shields.io/badge/Reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
 <img src="https://img.shields.io/badge/Reacthookform-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white">
-<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=tanstack&logoColor=white">
+<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 
