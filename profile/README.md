@@ -1,4 +1,4 @@
-# CarMarketplaceApp-BE
+# CarMarketplaceApp
 <div align="center">
     <img src="https://github.com/user-attachments/assets/3a0f16ca-25c1-4923-90d5-b669ee894074" alt="image" />
 </div>
