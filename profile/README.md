@@ -83,7 +83,7 @@
 
 ✔️ 사용자와 관리자간의 1:1 소켓 통신을 통해 궁금한 내용을 물어볼 수 있어요.
 
-> [1:1 채팅 서비스 보러가기](https://jelly-literature-7f3.notion.site/your-chat-service-link)
+> [1:1 채팅 서비스 보러가기](https://jelly-literature-7f3.notion.site/1-1-cb3bd6ce63944ce38550ada62f77fa73?pvs=4)
 
 <br/>
 
