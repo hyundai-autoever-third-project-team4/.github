@@ -1,9 +1,5 @@
 # 🚘 나에게 맞는 차량을 찾아봐 (차자바)
 
-<div align="center">
-    <a href="https://chajava.store/">차자바 웹 뷰 사이트</a> 
-</div>
-
 <br/>
 
 <div align="center">
@@ -12,7 +8,9 @@
 
 
 | 현대오토에버 모빌리티 SW스쿨 웹/앱 과정 앱 프로젝트
-
+<div >
+    <a href="https://chajava.store/">차자바 웹 뷰 사이트</a> 
+</div>
 <br/>
 
 ## 👍 차자바는 사용자 맞춤 차량을 추천해요
