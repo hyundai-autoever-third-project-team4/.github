@@ -63,7 +63,7 @@
 
 ✔️ 차자바의 프론트-백엔드 이중 검증을 통해 안전한 결제망을 구축했어요.
 
-> [차자바의 차량 구매 서비스 보러가기](https://jelly-literature-7f3.notion.site/your-purchase-service-link)
+> [차자바의 차량 구매 서비스 보러가기](https://jelly-literature-7f3.notion.site/7578215c0b4c4d7ebadf265ee8959403?pvs=4)
 
 <br/>
 
