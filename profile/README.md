@@ -22,6 +22,9 @@
 [![YouTube 영상 보기](https://img.youtube.com/vi/2wfLe34CqaA/0.jpg)](https://www.youtube.com/watch?v=2wfLe34CqaA)
 
 
+<details>
+<summary><h1>🎞 서비스 기능 전체 보기</h2></summary>
+<div markdown="1">
 
 ## 👍 차자바는 사용자 맞춤 차량을 추천해요
 
@@ -113,7 +116,11 @@
 
 <br/>
 
-## 💥 트러블 슈팅
+</details>
+
+<details>
+<summary><h1>💥 트러블 슈팅 전체 보기</h2></summary>
+<div markdown="1">
 
 😙 차량 이미지 업로드 시, 파일 용량에 따라 이미지가 업로드 되지 않는 문제를 해결했어요
 > [보러가기](https://jelly-literature-7f3.notion.site/Spring-Boot-S3-1840e5a4e6ef44f29d3a9bd9c8cb3055?pvs=4)
@@ -123,6 +130,8 @@
 
 😃 FCM 연동 과정에서, `json` 파일이 배포 환경에 정상적으로 전달되지 않던 문제를 해결했어요
 > [보러가기](https://jelly-literature-7f3.notion.site/JSON-secret-f0d8dddd52b74373bc0eba4db4c2520b?pvs=4)
+
+</details>
 
 ## 🛠️ 기술 스택
 
