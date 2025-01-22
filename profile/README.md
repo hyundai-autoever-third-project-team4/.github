@@ -14,7 +14,7 @@
 <br/>
 
 https://www.youtube.com/watch?v=2wfLe34CqaA
-[![차자바 시연영상](https://img.youtube.com/vi/2wfLe34CqaA/0.jpg)](https://www.youtube.com/watch?v=2wfLe34CqaA))
+[![차자바 시연영상]](https://img.youtube.com/vi/2wfLe34CqaA/0.jpg)(https://www.youtube.com/watch?v=2wfLe34CqaA))
 
 ## 👍 차자바는 사용자 맞춤 차량을 추천해요
 
