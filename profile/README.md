@@ -13,8 +13,12 @@
 </div>
 <br/>
 
-https://www.youtube.com/watch?v=2wfLe34CqaA
-[![차자바 시연영상]](https://www.youtube.com/watch?v=2wfLe34CqaA))
+
+<div >
+    <a href="https://www.youtube.com/watch?v=2wfLe34CqaA">🚗 차자바 시연영상</a> 
+</div>
+<br/>
+
 
 ## 👍 차자바는 사용자 맞춤 차량을 추천해요
 
