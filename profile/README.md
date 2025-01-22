@@ -19,7 +19,7 @@
 </div>
 <br/>
 
-[![YouTube 영상 보기](https://img.youtube.com/vi/2wfLe34CqaA/0.jpg)](www.youtube.com/watch?v=2wfLe34CqaA)
+[![YouTube 영상 보기](https://img.youtube.com/vi/2wfLe34CqaA/0.jpg)](https://www.youtube.com/watch?v=2wfLe34CqaA)
 
 
 
