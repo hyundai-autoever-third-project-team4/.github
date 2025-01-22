@@ -19,9 +19,7 @@
 </div>
 <br/>
 
-<div >
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/영상_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[![YouTube 영상 보기](https://img.youtube.com/vi/2wfLe34CqaA/0.jpg)](www.youtube.com/watch?v=2wfLe34CqaA)
 
 
 
